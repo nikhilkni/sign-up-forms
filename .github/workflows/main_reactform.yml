@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'reactform'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DF56CA3CE4144E698B238FE38906FA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D38546472974F98BD0DA38ACC0E6990 }}
           package: .
